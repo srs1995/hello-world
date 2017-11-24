@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository
+
+Computer science masters student at Stanford University with a specialization in AI.
